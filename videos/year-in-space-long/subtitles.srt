@@ -1,0 +1,744 @@
+1
+00:00:00,800 --> 00:00:03,760
+In March 2015, NASA sent astronaut Scott
+
+2
+00:00:03,760 --> 00:00:05,520
+Kelly to live on the International Space
+
+3
+00:00:05,520 --> 00:00:07,190
+Station for almost a year.
+
+4
+00:00:07,280 --> 00:00:08,950
+His identical twin brother, Mark,
+
+5
+00:00:09,020 --> 00:00:11,190
+also an astronaut, stayed on Earth.
+
+6
+00:00:11,280 --> 00:00:12,890
+That made them a perfect experiment.
+
+7
+00:00:13,440 --> 00:00:15,850
+Same DNA, two very different worlds.
+
+8
+00:00:15,940 --> 00:00:18,920
+340 days later, Scott came home taller,
+
+9
+00:00:18,920 --> 00:00:21,850
+with swollen legs and painful rashes.
+
+10
+00:00:22,360 --> 00:00:23,560
+Even some of his genes were behaving
+
+11
+00:00:23,560 --> 00:00:24,290
+differently.
+
+12
+00:00:24,380 --> 00:00:25,560
+So what does a year in space
+
+13
+00:00:25,560 --> 00:00:27,310
+actually do to your body?
+
+14
+00:00:27,640 --> 00:00:29,560
+Let's follow it, from launch day to
+
+15
+00:00:29,560 --> 00:00:30,070
+landing.
+
+16
+00:00:31,360 --> 00:00:32,230
+It starts fast.
+
+17
+00:00:32,460 --> 00:00:34,080
+Less than 10 minutes after liftoff,
+
+18
+00:00:34,080 --> 00:00:35,480
+the engines cut out, and you're in
+
+19
+00:00:35,480 --> 00:00:35,950
+orbit.
+
+20
+00:00:36,040 --> 00:00:38,040
+Here's the strange part: there's still plenty
+
+21
+00:00:38,040 --> 00:00:39,370
+of gravity up there.
+
+22
+00:00:39,660 --> 00:00:41,690
+At the station's height, it's about 90%
+
+23
+00:00:41,800 --> 00:00:43,070
+as strong as on the ground.
+
+24
+00:00:43,160 --> 00:00:44,820
+You float because the station is falling
+
+25
+00:00:44,820 --> 00:00:48,130
+around the Earth at 28,000 km/h,
+
+26
+00:00:48,400 --> 00:00:49,670
+and you're falling with it.
+
+27
+00:00:49,760 --> 00:00:51,100
+That's fast enough to circle the planet
+
+28
+00:00:51,100 --> 00:00:52,370
+every 90 minutes.
+
+29
+00:00:52,740 --> 00:00:55,510
+You'll see 16 sunrises every single day.
+
+30
+00:00:56,800 --> 00:00:58,280
+The first thing to go wrong is
+
+31
+00:00:58,280 --> 00:00:59,410
+your sense of balance.
+
+32
+00:00:59,500 --> 00:01:01,420
+Your inner ear uses gravity to tell
+
+33
+00:01:01,420 --> 00:01:02,370
+which way is down.
+
+34
+00:01:02,720 --> 00:01:03,810
+Suddenly, there is no down,
+
+35
+00:01:04,120 --> 00:01:06,150
+and its signals stop making sense.
+
+36
+00:01:06,240 --> 00:01:08,620
+Depending on the study, somewhere between 40
+
+37
+00:01:08,620 --> 00:01:11,300
+and 80% of astronauts get space sick
+
+38
+00:01:11,300 --> 00:01:12,830
+in their first few days.
+
+39
+00:01:12,920 --> 00:01:14,800
+At the same time, your body fluids
+
+40
+00:01:14,800 --> 00:01:16,210
+start to move.
+
+41
+00:01:16,640 --> 00:01:18,760
+On Earth, gravity pulls them toward your
+
+42
+00:01:18,760 --> 00:01:20,840
+feet. In orbit, they spread up into
+
+43
+00:01:20,840 --> 00:01:22,050
+your chest and head.
+
+44
+00:01:22,140 --> 00:01:25,140
+On NASA's Skylab missions, astronauts lost more
+
+45
+00:01:25,140 --> 00:01:26,940
+than 2 liters of fluid from their
+
+46
+00:01:26,940 --> 00:01:28,730
+legs in just 3 days.
+
+47
+00:01:28,820 --> 00:01:30,810
+Astronauts call it puffy face,
+
+48
+00:01:31,120 --> 00:01:33,370
+bird legs. Your face swells,
+
+49
+00:01:33,600 --> 00:01:35,640
+your legs get thin, and your nose
+
+50
+00:01:35,640 --> 00:01:38,110
+feels blocked, like a permanent cold.
+
+51
+00:01:38,200 --> 00:01:40,020
+That blocked nose dulls your sense of
+
+52
+00:01:40,020 --> 00:01:42,480
+taste. It's one reason astronauts love hot
+
+53
+00:01:42,480 --> 00:01:42,950
+sauce.
+
+54
+00:01:44,240 --> 00:01:45,810
+Within days, you start to grow.
+
+55
+00:01:45,900 --> 00:01:48,760
+Without gravity squeezing it, your spine stretches
+
+56
+00:01:48,760 --> 00:01:51,210
+out, and its natural curve straightens.
+
+57
+00:01:51,640 --> 00:01:54,190
+Astronauts can grow up to 3% taller.
+
+58
+00:01:54,280 --> 00:01:56,300
+Scott Kelly came home almost 4 cm
+
+59
+00:01:56,300 --> 00:01:57,030
+taller.
+
+60
+00:01:57,120 --> 00:01:59,340
+But a stretched spine is an unhappy
+
+61
+00:01:59,340 --> 00:02:01,680
+one. Back pain is one of the
+
+62
+00:02:01,680 --> 00:02:03,650
+most common complaints in orbit,
+
+63
+00:02:04,040 --> 00:02:06,140
+and astronauts are about 4 times more
+
+64
+00:02:06,140 --> 00:02:07,470
+likely to slip a disc.
+
+65
+00:02:08,760 --> 00:02:10,230
+Everyday life gets weird, too.
+
+66
+00:02:10,660 --> 00:02:11,330
+Take crying.
+
+67
+00:02:11,420 --> 00:02:12,810
+Your tears can't fall.
+
+68
+00:02:13,100 --> 00:02:14,760
+They cling to your eye and grow
+
+69
+00:02:14,760 --> 00:02:16,090
+into a ball of water.
+
+70
+00:02:16,180 --> 00:02:18,730
+In 2001, during a spacewalk,
+
+71
+00:02:19,140 --> 00:02:21,380
+Chris Hadfield got anti-fog liquid in his
+
+72
+00:02:21,380 --> 00:02:23,370
+eye. The tears built up,
+
+73
+00:02:23,500 --> 00:02:25,500
+crossed his nose, and blinded his other
+
+74
+00:02:25,500 --> 00:02:26,210
+eye too.
+
+75
+00:02:26,300 --> 00:02:28,200
+He stayed calm, and once his eyes
+
+76
+00:02:28,200 --> 00:02:30,410
+cleared, he finished the spacewalk.
+
+77
+00:02:30,500 --> 00:02:31,610
+Burping is worse.
+
+78
+00:02:31,980 --> 00:02:33,900
+On Earth, gas rises to the top
+
+79
+00:02:33,900 --> 00:02:34,670
+of your stomach.
+
+80
+00:02:35,160 --> 00:02:37,020
+In orbit, it stays mixed with your
+
+81
+00:02:37,020 --> 00:02:39,300
+food, so a burp often brings food
+
+82
+00:02:39,300 --> 00:02:40,090
+up with it.
+
+83
+00:02:40,180 --> 00:02:42,390
+And sleep? There's no up or down.
+
+84
+00:02:42,740 --> 00:02:44,260
+You zip yourself into a sleeping bag
+
+85
+00:02:44,260 --> 00:02:46,200
+strapped to the wall, so you don't
+
+86
+00:02:46,200 --> 00:02:47,550
+drift around in the night.
+
+87
+00:02:48,840 --> 00:02:50,300
+The biggest changes are the ones you
+
+88
+00:02:50,300 --> 00:02:51,090
+can't see.
+
+89
+00:02:51,180 --> 00:02:52,920
+Your skeleton is built to carry your
+
+90
+00:02:52,920 --> 00:02:55,350
+weight. In orbit, it carries nothing,
+
+91
+00:02:55,520 --> 00:02:57,610
+so your body starts taking bone apart.
+
+92
+00:02:57,700 --> 00:03:00,360
+Astronauts can lose 1 to 1.5% of
+
+93
+00:03:00,360 --> 00:03:01,820
+the bone in their hips and spine
+
+94
+00:03:01,820 --> 00:03:04,840
+every month. On Earth, older people lose
+
+95
+00:03:04,840 --> 00:03:06,350
+about that much in a year.
+
+96
+00:03:06,440 --> 00:03:07,790
+Muscles waste away too.
+
+97
+00:03:08,200 --> 00:03:10,840
+In one study, astronauts' calf muscles shrank
+
+98
+00:03:10,840 --> 00:03:13,670
+by around 13% over 6 months.
+
+99
+00:03:13,760 --> 00:03:14,750
+And that's with exercise.
+
+100
+00:03:15,100 --> 00:03:16,680
+Crews work out for about 2 hours
+
+101
+00:03:16,680 --> 00:03:19,180
+every day, strapped to a treadmill with
+
+102
+00:03:19,180 --> 00:03:21,200
+bungee cords so they don't float off
+
+103
+00:03:21,200 --> 00:03:21,570
+it.
+
+104
+00:03:22,860 --> 00:03:24,550
+Your heart gets an easier job.
+
+105
+00:03:24,740 --> 00:03:26,180
+It no longer has to pump blood
+
+106
+00:03:26,180 --> 00:03:27,570
+uphill to your brain.
+
+107
+00:03:27,660 --> 00:03:29,850
+In a NASA study of 12 astronauts,
+
+108
+00:03:29,980 --> 00:03:32,360
+their hearts became about 9% more spherical
+
+109
+00:03:32,360 --> 00:03:33,290
+in orbit.
+
+110
+00:03:33,380 --> 00:03:35,510
+A rounder heart pumps less efficiently.
+
+111
+00:03:35,880 --> 00:03:37,380
+The good news: they went back to
+
+112
+00:03:37,380 --> 00:03:39,550
+their normal shape after landing.
+
+113
+00:03:40,840 --> 00:03:41,950
+Then there are your eyes.
+
+114
+00:03:42,040 --> 00:03:43,600
+All that fluid in your head presses
+
+115
+00:03:43,600 --> 00:03:44,750
+on them from behind.
+
+116
+00:03:45,340 --> 00:03:47,180
+Over months, the back of the eyeball
+
+117
+00:03:47,180 --> 00:03:49,100
+can flatten, and the nerve at the
+
+118
+00:03:49,100 --> 00:03:50,670
+back of your eye can swell.
+
+119
+00:03:50,760 --> 00:03:52,780
+About 2 in 3 astronauts on long
+
+120
+00:03:52,780 --> 00:03:54,670
+missions show early signs.
+
+121
+00:03:55,040 --> 00:03:57,220
+Their vision can shift, making nearby things
+
+122
+00:03:57,220 --> 00:03:58,650
+harder to focus on.
+
+123
+00:03:58,740 --> 00:04:00,840
+NASA calls it SANS, and it's one
+
+124
+00:04:00,840 --> 00:04:02,400
+of the big health problems to solve
+
+125
+00:04:02,400 --> 00:04:03,830
+before a trip to Mars.
+
+126
+00:04:05,120 --> 00:04:06,470
+And then there's radiation.
+
+127
+00:04:06,560 --> 00:04:08,990
+On Earth, the thick atmosphere shields you.
+
+128
+00:04:09,180 --> 00:04:11,420
+On the station, you absorb roughly 100
+
+129
+00:04:11,420 --> 00:04:13,810
+times more radiation every day.
+
+130
+00:04:13,900 --> 00:04:15,520
+Six months on board adds up to
+
+131
+00:04:15,520 --> 00:04:18,040
+decades' worth of the natural background radiation
+
+132
+00:04:18,040 --> 00:04:19,390
+you'd get on the ground.
+
+133
+00:04:19,480 --> 00:04:21,150
+Some of it you can even see.
+
+134
+00:04:21,580 --> 00:04:23,180
+Close your eyes, and you may notice
+
+135
+00:04:23,180 --> 00:04:24,590
+tiny flashes of light.
+
+136
+00:04:25,140 --> 00:04:27,920
+Scientists think those are cosmic rays passing
+
+137
+00:04:27,920 --> 00:04:29,250
+through your eyes.
+
+138
+00:04:30,540 --> 00:04:33,640
+On March 1, 2016, Scott Kelly landed
+
+139
+00:04:33,640 --> 00:04:34,710
+back on Earth.
+
+140
+00:04:35,040 --> 00:04:37,070
+Then scientists compared him with Mark.
+
+141
+00:04:37,160 --> 00:04:39,600
+Scott's telomeres, the protective caps on the
+
+142
+00:04:39,600 --> 00:04:41,640
+ends of his chromosomes, had actually grown
+
+143
+00:04:41,640 --> 00:04:42,870
+longer in space.
+
+144
+00:04:43,200 --> 00:04:45,570
+Within days of landing, they shrank back,
+
+145
+00:04:45,860 --> 00:04:47,730
+and some ended up shorter than before.
+
+146
+00:04:47,820 --> 00:04:49,320
+Many of his genes had changed how
+
+147
+00:04:49,320 --> 00:04:50,510
+active they were.
+
+148
+00:04:50,880 --> 00:04:51,950
+Most went back to normal,
+
+149
+00:04:52,280 --> 00:04:54,520
+but some immune genes were still hyperactive
+
+150
+00:04:54,520 --> 00:04:55,750
+6 months later.
+
+151
+00:04:55,840 --> 00:04:57,940
+And on cognitive tests, he got slower
+
+152
+00:04:57,940 --> 00:04:59,870
+and less accurate after landing,
+
+153
+00:05:00,200 --> 00:05:02,230
+and that lasted at least 6 months.
+
+154
+00:05:02,320 --> 00:05:04,330
+One more thing: he's technically younger.
+
+155
+00:05:04,540 --> 00:05:06,410
+Moving that fast slows time,
+
+156
+00:05:06,500 --> 00:05:08,800
+just slightly. Over all his days in
+
+157
+00:05:08,800 --> 00:05:11,520
+space, Scott has aged about 13 milliseconds
+
+158
+00:05:11,520 --> 00:05:13,770
+less than if he'd stayed home.
+
+159
+00:05:15,060 --> 00:05:16,160
+Coming home is a shock of its
+
+160
+00:05:16,160 --> 00:05:16,630
+own.
+
+161
+00:05:16,720 --> 00:05:18,650
+All that fluid rushes back down.
+
+162
+00:05:19,060 --> 00:05:20,300
+Kelly said his legs swelled up,
+
+163
+00:05:20,300 --> 00:05:22,220
+and his joints and muscles ached for
+
+164
+00:05:22,220 --> 00:05:22,670
+weeks.
+
+165
+00:05:22,760 --> 00:05:24,580
+He broke out in painful rashes where
+
+166
+00:05:24,580 --> 00:05:26,110
+his skin touched the bed.
+
+167
+00:05:26,460 --> 00:05:27,610
+After a year of floating,
+
+168
+00:05:27,860 --> 00:05:29,630
+it wasn't used to touching anything.
+
+169
+00:05:29,720 --> 00:05:31,450
+His height shrank right back.
+
+170
+00:05:31,840 --> 00:05:33,910
+Rebuilding bone and muscle took months,
+
+171
+00:05:34,200 --> 00:05:35,710
+and even 3 months later,
+
+172
+00:05:35,860 --> 00:05:37,890
+he still had sore feet and fatigue.
+
+173
+00:05:39,180 --> 00:05:40,650
+Most of these changes reverse.
+
+174
+00:05:40,880 --> 00:05:42,940
+The human body is remarkably good at
+
+175
+00:05:42,940 --> 00:05:44,750
+adapting, in both directions.
+
+176
+00:05:44,840 --> 00:05:46,020
+But a trip to Mars would take
+
+177
+00:05:46,020 --> 00:05:48,620
+years, not months, with no hospital and
+
+178
+00:05:48,620 --> 00:05:49,950
+no quick way home.
+
+179
+00:05:50,040 --> 00:05:51,820
+That's why NASA studied a pair of
+
+180
+00:05:51,820 --> 00:05:53,620
+twins. Before we send people to another
+
+181
+00:05:53,620 --> 00:05:55,460
+planet, we need to know what space
+
+182
+00:05:55,460 --> 00:05:57,630
+does to the one body they're bringing.
+
+183
+00:05:57,720 --> 00:05:59,390
+If you enjoyed this, subscribe.
+
+184
+00:05:59,820 --> 00:06:01,140
+There's a whole Shorts series on what
+
+185
+00:06:01,140 --> 00:06:02,530
+space does to your body,
+
+186
+00:06:02,700 --> 00:06:04,470
+one weird change at a time.
+
