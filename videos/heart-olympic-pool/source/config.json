@@ -1,0 +1,11 @@
+{
+ "out": "heart_pool_short.mp4",
+ "music_start": 20,
+ "highlight": ["Olympic swimming pool", "every single year.", "size of your fist.", "5 liters", "entire blood supply,", "once every minute.", "100,000 times", "2.5 million liters.", "80 Olympic pools,", "never takes a break.", "Not bad", "your fist."],
+ "cues": {"pool": ["l1", "pool"], "fist": ["l2", "fist."], "minute2": ["l2", "minute,"], "n5": ["l2", "5"], "entire": ["l3", "entire"], "once": ["l3", "once"],
+          "n100k": ["l4", "100,000"], "year4": ["l4", "year,"], "n25": ["l4", "2.5"], "lifetime": ["l5", "lifetime,"], "n80": ["l5", "80"], "brk": ["l5", "break."], "fist6": ["l6", "fist."]},
+ "sfx": [["beat", 0.0, 0], ["beat", 0.83, 0], ["beat", 1.66, 0], ["splash", 0.3, 0],
+         ["whoosh", "l2", -0.6], ["whoosh", "l3", -0.6], ["whoosh", "l4", -0.6], ["whoosh", "l5", -0.6], ["whoosh", "l6", -0.6],
+         ["pop", "fist", -0.2], ["pop", "n5", -0.2], ["chime", "once", -0.1], ["rise", "n25", -0.6], ["splash", "n25", 0.4],
+         ["pop", "n80", -0.3], ["thud", "brk", -0.2], ["beat", "fist6", -0.6], ["beat", "fist6", 0.23]]
+}
