@@ -16,7 +16,9 @@ const only = process.argv[2] ? process.argv[2].split(",").map(Number) : null;
     for (let k = w; k < jobs.length; k += WORKERS) {
       const i = jobs[k];
       await page.evaluate(t => window.render(t), i / FPS);
-      await page.screenshot({ path: only ? `frames/test_${(i / FPS).toFixed(2)}.png` : `frames/${String(i).padStart(5, "0")}.jpg`, type: only ? "png" : "jpeg", ...(only ? {} : { quality: 93 }) });
+      const alpha = process.env.ALPHA === "1";
+      await page.screenshot({ path: only ? `frames/test_${(i / FPS).toFixed(2)}.png` : `frames/${String(i).padStart(5, "0")}.${alpha ? "png" : "jpg"}`,
+                              type: only || alpha ? "png" : "jpeg", omitBackground: alpha && !only, ...(only || alpha ? {} : { quality: 93 }) });
     }
   }));
   await browser.close();

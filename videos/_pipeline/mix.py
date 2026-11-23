@@ -20,7 +20,19 @@ for name, at, off in cfg.get("sfx", []):
     sfx.append((f"sfx_{name}.wav", when))
 for name in {n for n, _, _ in cfg.get("sfx", [])}:
     sh(*SYN[name], "-ac", "2", f"sfx_{name}.wav")
-cmd = ["ffmpeg", "-v", "error", "-y", "-framerate", "30", "-i", "frames/%05d.jpg"]
+vin = ["-framerate", "30", "-i", "frames/%05d.jpg"]
+if cfg.get("bg_clips"):   # stylized AI clips under transparent drawn frames, given a neon posterized grade
+    ins, fc, prev = ["-f", "lavfi", "-i", f"color=c=black:s=1080x1920:r=30:d={TOTAL:.3f}"], [], "0:v"
+    for k, c in enumerate(cfg["bg_clips"]):
+        st = (C[c["at"]] if isinstance(c["at"], str) else c["at"]) + c.get("off", 0); ins += ["-i", c["file"]]
+        fc.append(f"[{k+1}:v]setpts=(PTS-STARTPTS)*{c.get('speed', 1)},fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,"
+                  f"lutrgb=r='floor(val/40)*40':g='floor(val/40)*40':b='floor(val/40)*40',eq=saturation=1.35:contrast=1.08,trim=0:{c['dur']},setpts=PTS+{max(0, st):.3f}/TB[c{k}]")
+        fc.append(f"[{prev}][c{k}]overlay=eof_action=pass:enable='between(t,{max(0, st):.3f},{max(0, st) + c['dur']:.3f})'[b{k}]"); prev = f"b{k}"
+    ins += ["-framerate", "30", "-i", "frames/%05d.png"]; nf = len(cfg["bg_clips"]) + 1
+    fc.append(f"[{prev}][{nf}:v]overlay=0:0:format=auto,format=yuv420p[v]")
+    sh(*ins, "-filter_complex", ";".join(fc), "-map", "[v]", "-c:v", "libx264", "-preset", "medium", "-crf", "16", "-t", f"{TOTAL:.3f}", "composite.mp4")
+    vin = ["-i", "composite.mp4"]
+cmd = ["ffmpeg", "-v", "error", "-y", *vin]
 for L in TL["lines"]: cmd += ["-i", f"vo_proc/{L['id']}.wav"]
 cmd += ["-ss", str(cfg.get("music_start", 20)), "-t", f"{TOTAL + 0.5:.2f}", "-i", f"{P}/music/bed.mp3"]
 for f, _ in sfx: cmd += ["-i", f]
