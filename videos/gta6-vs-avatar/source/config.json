@@ -1,0 +1,14 @@
+{
+ "out": "gta6_avatar_short.mp4",
+ "music_start": 30,
+ "highlight": ["GTA 6", "Avatar,", "biggest movie ever,", "more than a decade,", "$2.9 billion.", "$3.79 billion,", "day one.", "$44,000", "every single second.", "GTA 5,", "$800 million", "Almost 5 times", "32.5 million copies", "One day.", "than Avatar"],
+ "cues": {"avatar1": ["l1", "Avatar,"], "life": ["l1", "life."], "decade": ["l2", "decade,"], "rerel": ["l2", "re-releases,"], "n29": ["l2", "$2.9"],
+          "g6": ["l3", "6?"], "n379": ["l3", "$3.79"], "dayone": ["l3", "day"], "n44": ["l4", "$44,000"], "second": ["l4", "second."],
+          "g5": ["l5", "5,"], "n800": ["l5", "$800"], "y2013": ["l5", "2013."], "almost": ["l5", "Almost"], "n325": ["l6", "32.5"], "sold": ["l6", "sold."],
+          "oneday": ["l7", "One"], "avatar7": ["l7", "Avatar"]},
+ "sfx": [["pop", 0.0, 0], ["rise", 0.2, 0],
+         ["whoosh", "l2", -0.6], ["whoosh", "l3", -0.6], ["whoosh", "l4", -0.6], ["whoosh", "l5", -0.6], ["whoosh", "l6", -0.6], ["whoosh", "l7", -0.6],
+         ["rise", "n29", -0.6], ["rise", "n379", -0.7], ["chime", "dayone", 0.0],
+         ["pop", "n44", -0.2], ["pop", "n44", 0.8], ["pop", "n44", 1.8],
+         ["thud", "n800", -0.2], ["rise", "almost", -0.5], ["thud", "almost", 0.4], ["pop", "n325", -0.3], ["chime", "avatar7", 0.0]]
+}
