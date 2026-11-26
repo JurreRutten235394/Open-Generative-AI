@@ -1,0 +1,175 @@
+{
+ "out": "gta6_trailer_record_short.mp4",
+ "music_start": 50,
+ "highlight": [
+  "GTA 6",
+  "MrBeast's record",
+  "single day.",
+  "90 million views",
+  "24 hours.",
+  "world record.",
+  "59 million,",
+  "beat him.",
+  "BTS.",
+  "108 million views",
+  "Trailer 2",
+  "475 million views",
+  "every platform.",
+  "One day."
+ ],
+ "cues": {
+  "mrbeast1": [
+   "l1",
+   "MrBeast's"
+  ],
+  "day1": [
+   "l1",
+   "day."
+  ],
+  "n90": [
+   "l2",
+   "90"
+  ],
+  "guinness": [
+   "l2",
+   "Guinness"
+  ],
+  "n59": [
+   "l3",
+   "59"
+  ],
+  "posted": [
+   "l3",
+   "posted"
+  ],
+  "bts": [
+   "l4",
+   "BTS."
+  ],
+  "butter": [
+   "l4",
+   "Butter"
+  ],
+  "n108": [
+   "l4",
+   "108"
+  ],
+  "t2": [
+   "l5",
+   "Trailer"
+  ],
+  "n475": [
+   "l5",
+   "475"
+  ],
+  "every": [
+   "l5",
+   "every"
+  ],
+  "oneday": [
+   "l6",
+   "One"
+  ]
+ },
+ "bg_clips": [
+  {
+   "file": "ai/city.mp4",
+   "at": 0,
+   "dur": 6.2,
+   "speed": 1.2
+  },
+  {
+   "file": "ai/crowd.mp4",
+   "at": "l2",
+   "off": -0.35,
+   "dur": 5.5,
+   "speed": 1.1
+  },
+  {
+   "file": "ai/phones.mp4",
+   "at": "l5",
+   "off": -0.35,
+   "dur": 8.3,
+   "speed": 1.6
+  },
+  {
+   "file": "ai/city.mp4",
+   "at": "l6",
+   "off": -0.35,
+   "dur": 3.5,
+   "speed": 1.2
+  }
+ ],
+ "sfx": [
+  [
+   "pop",
+   0.0,
+   0
+  ],
+  [
+   "rise",
+   0.15,
+   0
+  ],
+  [
+   "whoosh",
+   "l2",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l3",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l4",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l5",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l6",
+   -0.6
+  ],
+  [
+   "chime",
+   "guinness",
+   -0.1
+  ],
+  [
+   "thud",
+   "n59",
+   -0.2
+  ],
+  [
+   "pop",
+   "posted",
+   -0.1
+  ],
+  [
+   "rise",
+   "n108",
+   -0.4
+  ],
+  [
+   "thud",
+   "n108",
+   0.4
+  ],
+  [
+   "rise",
+   "n475",
+   -0.6
+  ],
+  [
+   "chime",
+   "every",
+   0.0
+  ]
+ ]
+}

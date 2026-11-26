@@ -1,0 +1,42 @@
+[
+ {
+  "id": "l1",
+  "vo": "Stubbing your toe hurts twice.",
+  "cap": "Stubbing your toe hurts twice."
+ },
+ {
+  "id": "l2",
+  "vo": "First, a sharp ouch. Then, up to a second later, a deep, throbbing ache.",
+  "cap": "First, a sharp OUCH. Then, up to a second later, a deep, throbbing ache."
+ },
+ {
+  "id": "l3",
+  "vo": "That's because the pain races to your brain along two different nerves.",
+  "cap": "That's because the pain races to your brain along two different nerves."
+ },
+ {
+  "id": "l4",
+  "vo": "The sharp pain takes the fast lane. Its signal travels about as fast as a car.",
+  "cap": "The sharp pain takes the fast lane. Its signal travels about as fast as a car."
+ },
+ {
+  "id": "l5",
+  "vo": "The ache takes the slow lane, at about walking speed.",
+  "cap": "The ache takes the slow lane, at about walking speed."
+ },
+ {
+  "id": "l6",
+  "vo": "And your toe is one of the farthest parts of your body from your brain. So the slow signal arrives last.",
+  "cap": "And your toe is one of the farthest parts of your body from your brain. So the slow signal arrives last."
+ },
+ {
+  "id": "l7",
+  "vo": "The fast one tells you exactly where it hurts. The slow one makes sure you don't forget it.",
+  "cap": "The fast one tells you exactly where it hurts. The slow one makes sure you don't forget it."
+ },
+ {
+  "id": "l8",
+  "vo": "That's why, every single time...",
+  "cap": "That's why, every single time..."
+ }
+]
