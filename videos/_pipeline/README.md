@@ -15,8 +15,9 @@ Work in a scratch folder that holds a video's three source files, then run, from
 
 Opening rules learned from the channel's data: the hook is complete on the first frame, no part numbers,
 and the ending returns to the opening shot so the Short loops.
+No AI-generated footage: the channel owner prefers fully drawn videos (they did better), so new Shorts use only the drawn engine.
 
-Optional AI background clips: render with `ALPHA=1` (transparent PNG frames, `make_html.py alpha`) and list the clips in
+Legacy, not used for new videos: AI background clips: render with `ALPHA=1` (transparent PNG frames, `make_html.py alpha`) and list the clips in
 `config.json` as `"bg_clips": [{"file": "ai/x.mp4", "at": "l2" or seconds, "off": -0.3, "dur": 5.5, "speed": 1.2, "ss": 0, "y": 0}]`
 (`speed` > 1 slows a clip down, `ss` skips into the source, `y` shifts it vertically). `mix.py` grades them (posterized, more
 saturated) and composites the drawn frames on top. Keep the clips clearly stylized and non-photoreal, with no text or logos.
