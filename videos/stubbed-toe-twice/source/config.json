@@ -1,0 +1,228 @@
+{
+ "out": "stubbed_toe_twice_short.mp4",
+ "music_start": 35,
+ "highlight": [
+  "hurts twice.",
+  "sharp OUCH.",
+  "up to a second later,",
+  "throbbing ache.",
+  "two different nerves.",
+  "fast lane.",
+  "as fast as a car.",
+  "slow lane,",
+  "walking speed.",
+  "farthest parts",
+  "arrives last.",
+  "exactly where it hurts.",
+  "don't forget it.",
+  "every single time..."
+ ],
+ "cues": {
+  "twice": [
+   "l1",
+   "twice."
+  ],
+  "ouch": [
+   "l2",
+   "OUCH."
+  ],
+  "then2": [
+   "l2",
+   "Then,"
+  ],
+  "second2": [
+   "l2",
+   "second"
+  ],
+  "throb": [
+   "l2",
+   "throbbing"
+  ],
+  "races": [
+   "l3",
+   "races"
+  ],
+  "brain3": [
+   "l3",
+   "brain"
+  ],
+  "two3": [
+   "l3",
+   "two"
+  ],
+  "fast4": [
+   "l4",
+   "fast"
+  ],
+  "signal4": [
+   "l4",
+   "signal"
+  ],
+  "car": [
+   "l4",
+   "car."
+  ],
+  "slow5": [
+   "l5",
+   "slow"
+  ],
+  "walking": [
+   "l5",
+   "walking"
+  ],
+  "farthest": [
+   "l6",
+   "farthest"
+  ],
+  "brain6": [
+   "l6",
+   "brain."
+  ],
+  "so6": [
+   "l6",
+   "So"
+  ],
+  "arrives": [
+   "l6",
+   "arrives"
+  ],
+  "where7": [
+   "l7",
+   "where"
+  ],
+  "slow7": [
+   "l7",
+   "slow"
+  ],
+  "forget": [
+   "l7",
+   "forget"
+  ],
+  "every8": [
+   "l8",
+   "every"
+  ]
+ },
+ "bg_clips": [
+  {
+   "file": "ai/stub.mp4",
+   "at": 0,
+   "dur": 6.8,
+   "speed": 1.45,
+   "y": -320
+  },
+  {
+   "file": "ai/hop.mp4",
+   "at": "l7",
+   "off": -0.3,
+   "dur": 4.7,
+   "speed": 0.95,
+   "y": 120
+  },
+  {
+   "file": "ai/stub.mp4",
+   "at": "l8",
+   "off": -0.3,
+   "dur": 2.8,
+   "speed": 1.45,
+   "y": -320
+  }
+ ],
+ "sfx": [
+  [
+   "thud",
+   2.392,
+   0
+  ],
+  [
+   "pop",
+   2.392,
+   0.03
+  ],
+  [
+   "beat",
+   "throb",
+   -0.3
+  ],
+  [
+   "beat",
+   "throb",
+   0.35
+  ],
+  [
+   "whoosh",
+   "l3",
+   -0.6
+  ],
+  [
+   "rise",
+   "races",
+   -0.2
+  ],
+  [
+   "whoosh",
+   "l4",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "fast4",
+   0
+  ],
+  [
+   "pop",
+   "car",
+   -0.3
+  ],
+  [
+   "pop",
+   "walking",
+   -0.3
+  ],
+  [
+   "whoosh",
+   "l6",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l6",
+   0.6
+  ],
+  [
+   "chime",
+   "l6",
+   1.05
+  ],
+  [
+   "beat",
+   "arrives",
+   0.2
+  ],
+  [
+   "beat",
+   "arrives",
+   0.8
+  ],
+  [
+   "whoosh",
+   "l7",
+   -0.6
+  ],
+  [
+   "whoosh",
+   "l8",
+   -0.6
+  ],
+  [
+   "thud",
+   30.722,
+   0
+  ],
+  [
+   "pop",
+   30.722,
+   0.03
+  ]
+ ]
+}

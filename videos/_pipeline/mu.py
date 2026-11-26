@@ -41,6 +41,8 @@ def run(endpoint, payload, out_path, label, max_cost, poll_every=4, timeout=900)
         if p.status_code >= 500:
             continue
         res = p.json()
+        if isinstance(res.get("detail"), dict):   # failures (e.g. moderation) come back wrapped in "detail"
+            res = res["detail"]
         st = (res.get("status") or "").lower()
         if st in ("completed", "succeeded", "success"):
             url = (res.get("outputs") or [None])[0] or res.get("url")

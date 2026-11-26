@@ -18,7 +18,7 @@ const only = process.argv[2] ? process.argv[2].split(",").map(Number) : null;
       await page.evaluate(t => window.render(t), i / FPS);
       const alpha = process.env.ALPHA === "1";
       await page.screenshot({ path: only ? `frames/test_${(i / FPS).toFixed(2)}.png` : `frames/${String(i).padStart(5, "0")}.${alpha ? "png" : "jpg"}`,
-                              type: only || alpha ? "png" : "jpeg", omitBackground: alpha && !only, ...(only || alpha ? {} : { quality: 93 }) });
+                              type: only || alpha ? "png" : "jpeg", omitBackground: alpha, ...(only || alpha ? {} : { quality: 93 }) });
     }
   }));
   await browser.close();
